@@ -1,0 +1,43 @@
+header {
+  background-color: #A10035;
+}
+footer {
+  min-height: 200px;
+  padding-top: 80px;
+}
+nav {
+  background-color: #3FA796;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tekst-inhoud {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 75%;
+}
+
+.h3 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.h3-c {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.nav-link {
+  font-weight: bold;
+}
+.btn {
+  background-color: #A10035;
+  color: white;
+}
+.btn:hover {
+  background-color: #FF7800;
+  color: white;
+}
